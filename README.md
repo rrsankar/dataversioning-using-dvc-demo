@@ -27,7 +27,7 @@ Git will track dvc data config files.
 
 ### Check the content
 
-    cat dataset/stroke_dataset.csv/dvc
+    cat dataset/stroke_dataset.csv.dvc
 
 ### Push dataset to remote server. I have used MinIO here.
 
